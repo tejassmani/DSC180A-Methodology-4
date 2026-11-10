@@ -7,10 +7,8 @@ title: Quarter 2 Project Brainstorm
 
 [tmani@ucsd.edu](mailto:tmani@ucsd.edu)
 
-**Section:** D36 — Agentic Workload Analysis at Scale for Health and Biotechnology Use Cases  
+**Section:** D36: Agentic Workload Analysis at Scale for Health and Biotechnology Use Cases  
 **Mentors:** Renu Raman and Bryan Chin
-
-The following responses are informed by the [Quarter 2 Project Proposal specifications](https://dsc-capstone.org/2026-27/assignments/projects/q2-proposal/).
 
 **1. What is the most interesting topic covered in your domain this quarter?**
 
